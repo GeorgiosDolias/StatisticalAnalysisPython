@@ -38,6 +38,6 @@ python api.py
 
 | Package | Version |
 --- | ---
-| Flask | 1.1.2 |
+| flask | 1.1.2 |
 | pandas |  1.1.3 |
 | joblib | 1.0.1 |
