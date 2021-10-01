@@ -18,7 +18,7 @@ source path_to_your_virtual_environment/bin/activate
 ```
 3. After getting to the virtual environment's file, install prerequisite packages
 ```
-wget https://raw.githubusercontent.com/GeorgiosDolias/ML_app/main/requirements.txt
+wget https://raw.githubusercontent.com/GeorgiosDolias/StatisticalAnalysisPython/main/requirements.txt
 ```
 and
 ```
