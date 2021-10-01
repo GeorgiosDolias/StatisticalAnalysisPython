@@ -41,3 +41,4 @@ python api.py
 | flask | 1.1.2 |
 | pandas |  1.1.3 |
 | joblib | 1.0.1 |
+| sklean | 0.23.2 |
