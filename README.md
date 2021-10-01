@@ -18,7 +18,7 @@ source path_to_your_virtual_environment/bin/activate
 ```
 3. After getting to the virtual environment's file, install prerequisite packages
 ```
-wget https://raw.githubusercontent.com/GeorgiosDolias/ML_app/main/requirements.txt
+wget https://raw.githubusercontent.com/GeorgiosDolias/StatisticalAnalysisPython/main/requirements.txt
 ```
 and
 ```
@@ -38,6 +38,7 @@ python api.py
 
 | Package | Version |
 --- | ---
-| Flask | 1.1.2 |
+| flask | 1.1.2 |
 | pandas |  1.1.3 |
 | joblib | 1.0.1 |
+| sklean | 0.23.2 |
