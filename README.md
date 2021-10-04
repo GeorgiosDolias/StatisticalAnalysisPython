@@ -2,7 +2,7 @@
 
 This repository contains the following python jupyter notebooks:
 
-* (Medical_Data_Statistical_Analysis.ipynb) Statistical Analysis and creation of prediction models based on medical data from different datasets. Creation of Flask API in order to make predictions and test of http requests to the created via Postman.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WHkJ4lMhEWBsrdL1GPzito1TEGFG2sih)
+* (Medical_Data_Statistical_Analysis.ipynb) Statistical Analysis and creation of prediction models based on medical data from different datasets. Creation of Flask API in order to make predictions and test of http requests to the created API via Postman.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WHkJ4lMhEWBsrdL1GPzito1TEGFG2sih)
 * (Metorites_Impacts_Analysis.ipynb) Statistical analysis of a dataset about meteorites impacts in order to make predictions about a future strike on Earth. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EY3l1grtaFwiJkzhETlDnzD_D7Yn-wKN#scrollTo=8745669b)
 * (Dice_Statistical _Analysis.ipynb) Statistical analysis based on data generated from games that include dice and examination of their fair conditions.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bxDBo9m8cXGBNio_o7OVoReAjbHHmg2w)
 
